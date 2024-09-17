@@ -1,0 +1,12 @@
+.history-data-container {
+  display: flex;
+  flex-direction: row;
+
+  align-items: center;
+}
+.delete-logo {
+  height: 30px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
